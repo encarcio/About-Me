@@ -8,6 +8,7 @@ import android.view.inputmethod.InputMethodManager
 import androidx.databinding.DataBindingUtil
 import com.example.aboutme.databinding.ActivityMainBinding
 
+
 class MainActivity : AppCompatActivity() {
     private val myName: MyName = MyName("Aditya Abhishek")
     private lateinit var binding: ActivityMainBinding
